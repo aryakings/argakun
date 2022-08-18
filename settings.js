@@ -16,8 +16,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.LolHumanKey = 'YOUR_APIKEY'//free apikey chat sy bawa bukti subs+like all video
-global.owner = ['6289531660936']
-global.premium = ['6289531660936']
+global.owner = ['6289506540113']
+global.premium = ['6289506540113']
 global.ownername = 'Dady Arga'
 global.botname = 'Dady Arga'
 global.ig = 'https://instagram.com/Boby0811_'
@@ -46,7 +46,7 @@ global.mess = {
     group: 'Only Group!',
     private: 'Only Private Chat!',
     bot: 'Only Bot!',
-    wait: 'Loading...',
+    wait: 'Sabar Kontol...',
     error: 'Error! Mungkin ApiKey Invalid!',
     endLimit: 'Limit Harian Anda Telah Habis, Batas Akan Direset Setiap 12 Jam',
 }
