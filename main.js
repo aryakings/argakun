@@ -153,7 +153,7 @@ module.exports = ZarnBot = async (ZarnBot, m, chatUpdate, store, footer) => {
         }
 //with join reply
 const reply = (teks) => {
-            ZarnBot.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` Join Bot's Official GC`,"body": ` Join Bot's Official GC`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": thumb,"sourceUrl": "https://chat.whatsapp.com/ClaFi0j7gNx1IR5CA1Kae6"}}}, { quoted: m })
+            ZarnBot.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` Join TCSI Official`,"body": ` Join TCSI Official`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": thumb,"sourceUrl": "https://chat.whatsapp.com/ClaFi0j7gNx1IR5CA1Kae6"}}}, { quoted: m })
         }
 /**
 const reply = (teks) => {
